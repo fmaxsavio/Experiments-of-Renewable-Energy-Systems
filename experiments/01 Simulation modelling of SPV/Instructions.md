@@ -36,9 +36,11 @@ The photon can pass straight through the silicon — this (generally) happens fo
 **Circuit Diagram:**
 
 <img width="927" height="587" alt="image" src="https://github.com/user-attachments/assets/d5c7af0d-e498-44ac-b8ea-9a7f931e3db4" />
+
 **Simulation Model**
 
 <img width="903" height="620" alt="image" src="https://github.com/user-attachments/assets/81802f68-c377-4936-a987-6c89673cb243" />
+
 **Procedure: (Practice video: https://www.youtube.com/watch?v=n1dQzP6-H20**
 
 1.	Open MATLAB
@@ -60,13 +62,16 @@ The photon can pass straight through the silicon — this (generally) happens fo
 10.	 Using Simulink converter, connect the terminals of the current sensor and voltage sensor to the scope to record the graph.
 11.	Use divide block and convert to multiplication operation and multiply the current and voltage outputs to get the power output.
 12.	Set the minimum and maximum range in X-Y graph to obtain the IV and PV characteristics.
+    
 **Tabulation:**
 
 <img width="913" height="201" alt="image" src="https://github.com/user-attachments/assets/3f9e372e-4039-4b5c-affb-bf34151c51fa" />
+
 **Model Graph**
 
 <img width="469" height="248" alt="image" src="https://github.com/user-attachments/assets/71ace438-7af3-4629-a219-0a884a1152f8" />
 <img width="464" height="219" alt="image" src="https://github.com/user-attachments/assets/02cefcbc-69fe-4e12-b7fc-dcde369a89c8" />
+
 **Result:**
 
 Thus, the solar PV energy system is simulated using MATLAB and the I-V and P-V graphs are determined for the given panel rating.
