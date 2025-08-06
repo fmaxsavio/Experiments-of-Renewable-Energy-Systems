@@ -1,5 +1,7 @@
 **Aim:**
+
 To model and design a 1kW solar photovoltaic system using MATLAB Simulation to obtain the solar parameters and the solar PV characteristics curves.
+
 **Software Tool Used:**
 MATLAB 2021 or above
 **Modelling Parameters:**
