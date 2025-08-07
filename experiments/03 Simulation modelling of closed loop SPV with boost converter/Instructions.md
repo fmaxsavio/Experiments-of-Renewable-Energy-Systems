@@ -67,6 +67,7 @@ By using a closed-loop PI control system, a boost converter can provide accurate
 <img width="618" height="316" alt="image" src="https://github.com/user-attachments/assets/5ae83473-e300-4be8-8e78-c24fe8ddc4e7" />
 
 **Formula:**
+
 Input Power (W) = Input Voltage x Input Current
 
 Output Power (W) = Output Voltage x Output Current
