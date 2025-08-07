@@ -64,7 +64,7 @@ By using a closed-loop PI control system, a boost converter can provide accurate
 
 **Tabulation:**
 
-<img width="618" height="316" alt="image" src="https://github.com/user-attachments/assets/5ae83473-e300-4be8-8e78-c24fe8ddc4e7" />
+<img width="665" height="346" alt="image" src="https://github.com/user-attachments/assets/6c0d1a01-48c2-4d0c-bd41-ab7542f3f544" />
 
 **Formula:**
 
