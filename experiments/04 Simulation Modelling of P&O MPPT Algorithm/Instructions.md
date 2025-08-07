@@ -12,7 +12,7 @@ MATLAB 2021 or above
 
 **Circuit Diagram:**
 
-<img width="647" height="344" alt="image" src="https://github.com/user-attachments/assets/442452a2-bf50-406b-8704-91ae420169bf" />
+<img width="919" height="509" alt="image" src="https://github.com/user-attachments/assets/e9ac735b-6cb7-46bd-a8b8-870fbe44d6c2" />
 
 **Simulation Diagram:**
 
