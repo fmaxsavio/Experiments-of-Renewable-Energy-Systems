@@ -1,6 +1,6 @@
 **Aim:**
 
-To simulate solar powered DC/DC boost converter using MATLAB Simulation for the output voltage control using P-I Controller
+To simulate solar powered DC/DC boost converter using MATLAB Simulation for the output voltage control using P-I Controller.
 
 **Software Tool used:**
 
