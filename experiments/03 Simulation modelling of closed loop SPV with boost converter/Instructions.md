@@ -20,9 +20,11 @@ MATLAB 2014 or above
 11. Switching frequency = 10kHz
 
 **Circuit Diagram:**
+
 <img width="501" height="272" alt="image" src="https://github.com/user-attachments/assets/7be7d64c-592e-42fa-af23-27e1c32a6a3a" />
 
 **Simulation Diagram:**
+
 <img width="1434" height="638" alt="image" src="https://github.com/user-attachments/assets/80b039b8-7164-4062-92e3-61b67aa79805" />
 
 **Theory:**
