@@ -14,6 +14,10 @@ MATLAB 2021 or above
 
 <img width="919" height="509" alt="image" src="https://github.com/user-attachments/assets/e9ac735b-6cb7-46bd-a8b8-870fbe44d6c2" />
 
+**P&O Flowchart:**
+
+<img width="850" height="820" alt="image" src="https://github.com/user-attachments/assets/578d632c-cb6a-434f-9cb8-1e2840b30646" />
+
 **Simulation Diagram:**
 
 <img width="1287" height="458" alt="image" src="https://github.com/user-attachments/assets/69f3387d-51d5-4488-9803-66fb86b43f8d" />
