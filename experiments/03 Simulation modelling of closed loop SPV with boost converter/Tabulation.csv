@@ -1,6 +1,6 @@
-S.No,Reference Voltage (Vref) (V),Input Voltage (Vin) (V),Input Current (Iin) (A),Input Power (Ppv) (W),Output Voltage (Vo) (V),Output Current (Io) (A),Output Power (Po) (W),Efficiency (η) (%),
-1,,,,,,,
-2,,,,,,,
-3,,,,,,,
-4,,,,,,,
-5,,,,,,,
+S.No,Reference Voltage (Vref) (V),Input Voltage (Vin) (V),Input Current (Iin) (A),Input Power (Ppv) (W),Output Voltage (Vo) (V),Output Current (Io) (A),Output Power (Po) (W),Efficiency (η) (%)
+1,,,,,,,,
+2,,,,,,,,
+3,,,,,,,,
+4,,,,,,,,
+5,,,,,,,,
