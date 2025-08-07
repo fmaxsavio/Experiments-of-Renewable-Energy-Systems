@@ -47,6 +47,7 @@ Perturb and Observe (P&O) is one of the most common and widely used Maximum Powe
 7.	Note the input and output side parameters and tabulate it.
 
 **Tabulation:**
+
 <img width="668" height="339" alt="image" src="https://github.com/user-attachments/assets/ea9ff061-cd41-4ceb-ad70-e6e317347913" />
 
 **Model Graph:**
