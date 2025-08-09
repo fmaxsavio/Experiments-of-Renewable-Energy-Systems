@@ -1,6 +1,6 @@
 **Aim:**
 
-To simulate solar powered DC/DC boost converter using MATLAB Simulation and obtain the I-V and P-V characteristics by changing the duty cycle.
+To simulate solar powered DC/DC boost converter using MATLAB Simulation and obtain the I-V and P-V characteristics by changing the duty cycle.123
 
 **Software Tool Used:**
 
